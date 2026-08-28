@@ -95,6 +95,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 053 – LightGBM
 ✅ Day 054 – CatBoost & Categorical Features
 ✅ Day 055 - Model Selection & Choosing the Right ML Algorithm
+✅ Day 056 – Feature Engineering
 
 
 
