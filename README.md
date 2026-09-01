@@ -98,6 +98,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 056 – Feature Engineering
 ✅ Day 057 – Feature Selection
 ✅ Day 058 – Dimensionality Reduction & PCA
+✅ Day 059 – Cross-Validation
 
 
 
