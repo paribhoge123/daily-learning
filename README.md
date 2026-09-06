@@ -99,6 +99,7 @@ This repository focuses purely on AI and Machine Learning concepts, including:
 ✅ Day 057 – Feature Selection
 ✅ Day 058 – Dimensionality Reduction & PCA
 ✅ Day 059 – Cross-Validation
+✅ Day 060 → Hyperparameter Tuning
 
 
 
